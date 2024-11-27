@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+body{
+    background: #4f4f4f;
+    background-image: url('FondoC2.jpg');
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.Logo{
+    position: absolute;
+    margin-left: 5vw;
+    border-radius: 1vw;
+    width: 10vw;
+}
+.Cabeza{
+    margin-left: 30%;
+    background: #a9a9a9;
+    border: solid transparent .1vw;
+    border-radius: 1vw;
+    width: 40%;
+    height: 10vw;
+}
+.Titulo{
+    margin: 2vw 1vw;
+    font-family: Pompiere;
+    font-size: 5vw;
+}
+.Parte1{
+    margin: .5% 5%;
+    background: #8b8b8b;
+    border: solid transparent .1vw;
+    border-radius: 1vw;
+    width: 90%;
+    height: 19vw;
+    opacity: .8;
+}
+.Informacion{
+    font-family: Pompiere;
+    font-size: 1.7vw;
+}
+.Contenedor{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 1vw 10%;
+}
+.Pag1{
+    border: solid .01vw white;
+    border-radius: .7vw;
+    width: 20vw;
+    background: #a9a9a9;
+}
+.Pag1a{
+    margin: 1vw 0%;
+    font-family: Pompiere;
+    font-size: 3.5vw;
+    color: #757575;
+    border: none;
+    border-radius: 1.5vw;
+    width: 18vw;
+}
+.Pag1a:hover{
+    cursor: pointer;
+}
+.Img1{
+    width: 80%;
+}
+.Pag2{
+    border: solid .01vw white;
+    border-radius: .7vw;
+    width: 20vw;
+    background: #bcbcbc;
+}
+.Pag2a{
+    margin: 1vw 0%;
+    font-family: Pompiere;
+    font-size: 3.5vw;
+    color: #757575;
+    border: none;
+    border-radius: 1.5vw;
+    width: 18vw;
+}
+.Pag2a:hover{
+    cursor: pointer;
+}
+.Img2{
+    width: 80%;
+}
+.Pag3{
+    border: solid .01vw white;
+    border-radius: .7vw;
+    width: 20vw;
+    height: 23vw;
+    background: #a9a9a9;
+}
+.Pag3a{
+    margin: 1vw 0%;
+    font-family: Pompiere;
+    font-size: 3.5vw;
+    color: #757575;
+    border: none;
+    border-radius: 1.5vw;
+    width: 18vw;
+}
+.Pag3a:hover{
+    cursor: pointer;
+}
+.Img3{
+    width: 80%;
+}
+.Ubicacion{
+    margin: 6vw 25%;
+    background: #8b8b8b;
+    border: solid #222222 .1vw;
+    border-radius: 1vw;
+    width: 50%;
+    height: 40vw;
+}
+.TitU{
+    margin: 2vw 0%;
+    background: white;
+    font-family: Pompiere;
+    font-size: 3.5vw;
+    color: black;
+    border: none;
+    border-radius: 1.5vw;
+    width: 40vw;
+}
+.Mapa{
+    margin: 1% 7.5%;
+    width: 85%;
+    border: solid white .1vw;
+    border-radius: 1vw;
+}
+.Ubicacion{
+    font-family: Pompiere;
+    font-size: 1.5vw;
+}
+.Puerco{
+    display: none;
+    margin: 5%;
+    background: #c3c3c3;
+    border: solid 1px;
+    border-radius: 1vw;
+    width: 90%;
+    height: 40.5vw;
+}
+.PuercoA{
+    font-family: Pompiere;
+    font-size: 2vw;
+    color: #575757;
+}
+.PuercoB{
+    font-family: Pompiere;
+    font-size: 1.5vw;
+    color: #3e3e3e;
+}
+.Gasolina{
+    display: none;
+    margin: 5%;
+    background: #c3c3c3;
+    border: solid 1px;
+    border-radius: 1vw;
+    width: 90%;
+    height: 40vw;
+}
+.Inflables{
+    display: none;
+    margin: 5%;
+    background: #c3c3c3;
+    border: solid 1px;
+    border-radius: 1vw;
+    width: 90%;
+    height: 58vw;
+}
+.Contactos{
+    margin: 1vw;
+    width: 40%;
+    height: 13vw;
+}
+.ContactosA{
+    font-family: Pompiere;
+    font-size: 2vw;
+    color: white;
+}
